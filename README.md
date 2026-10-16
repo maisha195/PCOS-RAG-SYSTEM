@@ -8,7 +8,7 @@ A retrieval-augmented generation (RAG) system that answers questions about polyc
 
 > **Educational research project, not medical advice.** Nothing here is a diagnosis or a treatment recommendation.
 
-![Pipeline](docs/figures/01_pipeline.png)
+![Pipeline](docs/01_pipeline.png)
 
 ## What it does
 
@@ -39,8 +39,8 @@ Main takeaways from this run:
 
 | | |
 |---|---|
-| ![Scorecard](docs/figures/12_scorecard.png) | ![RAG vs no RAG](docs/figures/06_rag_vs_no_rag.png) |
-| ![Claims test](docs/figures/07_claims.png) | ![Speed and memory](docs/figures/11_speed_memory.png) |
+| ![Scorecard](docs/12_scorecard.png) | ![RAG vs no RAG](docs/06_rag_vs_no_rag.png) |
+| ![Claims test](docs/07_claims.png) | ![Speed and memory](docs/11_speed_memory.png) |
 
 All 12 figures are in [`docs/](docs/).
 
