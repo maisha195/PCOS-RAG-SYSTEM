@@ -65,6 +65,8 @@ To run outside Colab, `pip install -r requirements.txt` and replace the `google.
 
 **The PDFs are not included** in this repository. They are third-party papers, and the saved search index contains text from them, so keep any index you build private.
 
+![Gradio PCOS tool example](docs/PCOS-rag-gradio-webpage.png.png)
+
 ## Limitations
 
 - The judge is a small local model (Qwen2.5-1.5B) from the same family as one of the generators, so it may favour Qwen and its scores are noisier than a large judge's would be.
