@@ -1,0 +1,13 @@
+# data and generated artefacts (the papers are third-party PDFs, the index contains text from them)
+papers/
+index/
+results/
+ragas_scores.json
+*.zip
+*.csv
+
+# python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store

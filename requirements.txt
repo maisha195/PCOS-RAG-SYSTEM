@@ -1,0 +1,15 @@
+# Tested on Google Colab (T4 GPU). Pins mirror the %pip install cell in the notebook.
+pypdf
+sentence-transformers
+faiss-cpu          # use faiss-gpu if you have a CUDA build
+accelerate
+gradio
+ragas>=0.4,<0.5
+langchain-community<0.4.2   # ragas 0.4 imports a module removed in 0.4.2
+lm-format-enforcer
+torch
+transformers
+numpy
+pandas
+scipy
+matplotlib
