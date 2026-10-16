@@ -42,7 +42,7 @@ Main takeaways from this run:
 | ![Scorecard](docs/figures/12_scorecard.png) | ![RAG vs no RAG](docs/figures/06_rag_vs_no_rag.png) |
 | ![Claims test](docs/figures/07_claims.png) | ![Speed and memory](docs/figures/11_speed_memory.png) |
 
-All 12 figures are in [`docs/figures/`](docs/figures/).
+All 12 figures are in [`docs/](docs/).
 
 ## Repository layout
 
