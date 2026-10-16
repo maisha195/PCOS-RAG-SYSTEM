@@ -48,9 +48,9 @@ All 12 figures are in [`docs/](docs/).
 
 ```
 .
-├── notebooks/
+├── PCOS-RAG-SYSTEM/
 │   └── PCOS_RAG_RAGAS_evaluation.ipynb   # the full pipeline, evaluation and saved outputs
-├── docs/figures/                         # all figures drawn by the notebook
+├── docs/                         # all figures drawn by the notebook
 ├── requirements.txt
 └── README.md
 ```
