@@ -82,6 +82,7 @@ PCOS Gradio website example
 
 Built with [RAGAS](https://github.com/explodinggradients/ragas), [FAISS](https://github.com/facebookresearch/faiss), [Sentence Transformers](https://www.sbert.net/), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [Gradio](https://www.gradio.app/), and the Qwen2.5 and Phi-3.5 models.
 
+#Sources  Research PDF files for PCOS (Stored in aston onedrive) : https://liveastonac-my.sharepoint.com/:f:/r/personal/250391255_aston_ac_uk/Documents/RAG%20System%20-%20PCOS%20papers?d=w34e3cc2b538c4d71b5b2f502b4cbdd5a&csf=1&web=1&e=udLvtG
 ## License
 
  The notebook does not redistribute any paper text.
