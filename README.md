@@ -79,4 +79,4 @@ Built with [RAGAS](https://github.com/explodinggradients/ragas), [FAISS](https:/
 
 ## License
 
-Add a license before publishing (for example MIT for the code). The notebook does not redistribute any paper text.
+ The notebook does not redistribute any paper text.
