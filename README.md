@@ -59,7 +59,8 @@ All 12 figures are in [`docs/](docs/).
 
 1. Open the notebook in Google Colab (badge above) and pick a **T4 GPU** under *Runtime > Change runtime type*.
 2. Run the cells in order. In section 1 you are asked to upload your own PCOS PDFs.
-3. Answer generation takes a few minutes. RAGAS scoring is the slow part (about 25 minutes here), but every score is saved to `ragas_scores.json` as it finishes, so a re-run resumes where it stopped.
+3. Requires a Huggingface token to run, access needs to be given via the secrets section in google collab : Learn more on how to generate tokens here: https://huggingface.co/docs/hub/en/security-tokens
+4. Answer generation takes a few minutes. RAGAS scoring is the slow part (about 25 minutes here), but every score is saved to `ragas_scores.json` as it finishes, so a re-run resumes where it stopped.
 
 To run outside Colab, `pip install -r requirements.txt` and replace the `google.colab.files` upload cell with a local folder of PDFs.
 
