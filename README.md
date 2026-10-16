@@ -65,7 +65,7 @@ To run outside Colab, `pip install -r requirements.txt` and replace the `google.
 
 **The PDFs are not included** in this repository. They are third-party papers, and the saved search index contains text from them, so keep any index you build private.
 
-![Gradio PCOS tool example](docs/PCOS-rag-gradio-webpage.png.png)
+![Gradio PCOS tool example](docs/PCOS-rag-gradio-webpage.png)
 
 ## Limitations
 
